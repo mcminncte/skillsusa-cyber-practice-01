@@ -1,1 +1,18 @@
+SkillsUSA Cyber Practice Scenario
 
+You are given several evidence files from a suspected compromised workstation.
+
+Your job:
+
+1. Create C:\Evidence folder structure
+2. Move all downloaded files into C:\Evidence\Extracted
+3. Identify any suspicious activity
+4. Decode any encoded messages
+5. Hash required files
+6. Generate a report in C:\Evidence\Reports
+
+Deliverables:
+- inventory.txt
+- hash.txt
+- decoded.txt
+- written findings (3-5 sentences)
